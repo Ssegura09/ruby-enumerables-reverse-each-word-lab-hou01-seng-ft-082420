@@ -1,5 +1,6 @@
 require 'pry'
 def reverse_each_word(sentence)
-  binding.pry
+  array.each do |element|
+    puts "Hello #{element}!"
     
 end
